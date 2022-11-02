@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name" translatable="false">Order Makanan</string>
+
+
+    <string name="this_activity" translatable="false">Ini adalah menu activity</string>
+    <string name="this_fragment" translatable="false">Ini adalah menu fragment</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="menu_1" translatable="false">Menu 1</string>
+    <string name="menu_2" translatable="false">Menu 2</string>
+
+    <string name="search_hint" translatable="false">Masukkan kata</string>
+    <string name="Makanan_name" translatable="false">Nama Makanan</string>
+    <string name="description" translatable="false">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Ayam Bakar</item>
+        <item>Ayam Geprek</item>
+        <item>Nasi Goreng</item>
+        <item>Nasi Putih</item>
+        <item>Nila Bakar</item>
+        <item>Sop Sapi</item>
+
+    </string-array>
+    <string-array name="data_description">
+        <item>Harga Rp 20.000
+            Nasi + Ayam Bakar + Lalapan + es teh  </item>
+        <item>Harga Rp 18.000
+            Nasi + Ayam Geprek + Lalapan + Tempe Tahu Goreng + es teh </item>
+        <item>Harga 16.000
+            Nasi Goreng + es teh</item>
+        <item>Harga Rp 6.000
+            Nasi Putih</item>
+        <item>Harga 28.000
+            Nasi + Nila Bakar Besar + Lalapan</item>
+        <item>Harga 34.000
+            Sop Sapi </item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/ayambakar</item>
+        <item>@drawable/ayamgeprek</item>
+        <item>@drawable/nasigoreng</item>
+        <item>@drawable/nasiputih</item>
+        <item>@drawable/nila_bakar</item>
+        <item>@drawable/sopsapi</item>
+
+    </integer-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="shoppingbag" translatable="false">ini adalah fragment Pesanan</string>
+    <string name="hello_ini_shopping_bag" translatable="false">shoppingbasket</string>
+    <string name="makanan_name" />
+    <string name="pesanan" />
+    <string name="pesananan">Order makanan terpilih</string>
+    <string name="shoppingbasket">shoppingbasket</string>
+
+
+</resources>
